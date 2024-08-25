@@ -1,7 +1,3 @@
-Here's a simple `README.md` file for your GitHub repository based on the provided code:
-
----
-
 # Face Detection with OpenCV
 
 This repository contains a simple Python script for detecting faces in real-time using OpenCV. The script utilizes Haar Cascade Classifier to identify faces from live video feed captured through the webcam.
